@@ -41,32 +41,32 @@ This point is prepended to the generated midpoints to form the raw skeleton of t
 
 ### Results 1 - 10
 <p align="center">
-  <img src="assets/image.png" width="18%" />
-  <img src="assets/scenario_2.png" width="18%" />
-  <img src="assets/scenario_3.png" width="18%" />
-  <img src="assets/scenario_4.png" width="18%" />
-  <img src="assets/scenario_5.png" width="18%" />
+  <img src="Path Planning Task\assets\image.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_2.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_3.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_4.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_5.png" width="18%" />
 </p>
 <p align="center">
-  <img src="assets/scenario_6.png" width="18%" />
-  <img src="assets/scenario_7.png" width="18%" />
-  <img src="assets/scenario_8.png" width="18%" />
-  <img src="assets/scenario_9.png" width="18%" />
-  <img src="assets/scenario_10.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_6.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_7.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_8.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_9.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_10.png" width="18%" />
 </p>
 
 ### Results 11 - 20
 <p align="center">
-  <img src="assets/scenario_11.png" width="18%" />
-  <img src="assets/scenario_12.png" width="18%" />
-  <img src="assets/scenario_13.png" width="18%" />
-  <img src="assets/scenario_14.png" width="18%" />
-  <img src="assets/scenario_15.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_11.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_12.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_13.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_14.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_15.png" width="18%" />
 </p>
 <p align="center">
-  <img src="assets/scenario_16.png" width="18%" />
-  <img src="assets/scenario_17.png" width="18%" />
-  <img src="assets/scenario_18.png" width="18%" />
-  <img src="assets/scenario_19.png" width="18%" />
-  <img src="assets/scenario_20.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_16.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_17.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_18.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_19.png" width="18%" />
+  <img src="Path Planning Task\assets\scenario_20.png" width="18%" />
 </p>
