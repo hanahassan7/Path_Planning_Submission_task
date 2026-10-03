@@ -1,8 +1,5 @@
 # Formula Student Driverless: Path Planning
 
-This repository contains an expert-level Path Planning module for a Formula Student Driverless vehicle. The approach is based on geometric track synthesis and shape-preserving parametric splines to safely map the boundaries and output a smooth, drivable trajectory.
-
-
 ### Step 1: Data Separation
 **Description:** The algorithm ingests raw sensor data and categorizes the cones by their position relative to the track.
 A straightforward logical filter checks the flag associated with each coordinate: $color=1$ designates the left boundary (Blue), and $color=0$ designates the right boundary (Yellow).
@@ -36,11 +33,7 @@ This point is prepended to the generated midpoints to form the raw skeleton of t
 
 ### Step 7: Smoothing and Resampling
 **Description:** The raw midpoints are jagged polylines. To satisfy kinematic constraints and output step sizes $\le 0.5m$, the skeleton is smoothed and dense-sampled.
-**Math:** 
-1. **Parameterization:** We calculate the cumulative chord length $s_i = s_{i-1} + ||P_i - P_{i-1}||$ to act as the independent parameter.
-2. **Shape-Preserving Splines:** We interpolate $x(s)$ and $y(s)$ using a **PCHIP Interpolator** (Piecewise Cubic Hermite Interpolating Polynomial). Unlike standard cubic splines which suffer from Runge's phenomenon (wild overshoots on sharp turns causing boundary collisions), PCHIP strictly preserves monotonicity.
-3. **Linear Extrapolation:** If the required target length exceeds the data, we extract the tangent at the final data point $\frac{dP}{ds}$ and linearly extrapolate the trajectory.
-4. **Adaptive Subdivision:** We uniformly sample the spline, then recursively check the Euclidean distance between points. If $\sqrt{(x_k - x_{k-1})^2 + (y_k - y_{k-1})^2} > 0.5m$, we insert parametric midpoints, strictly guaranteeing the density requirement everywhere.
+
 
 ---
 
