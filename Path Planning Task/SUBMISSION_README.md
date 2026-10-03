@@ -33,6 +33,10 @@ This point is prepended to the generated midpoints to form the raw skeleton of t
 
 ### Step 7: Smoothing and Resampling
 **Description:** The raw midpoints are jagged polylines. To satisfy kinematic constraints and output step sizes $\le 0.5m$, the skeleton is smoothed and dense-sampled.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 577747bd225847f76879c1a67173faa6c8d2cf3a
 
 ---
 
