@@ -45,7 +45,7 @@ This point is prepended to the generated midpoints to form the raw skeleton of t
 
 ### Results 1 - 10
 <p align="center">
-  <img src="src/assets/scenario_1.png" width="18%" />
+  <img src="src/assets/image.png" width="18%" />
   <img src="src/assets/scenario_2.png" width="18%" />
   <img src="src/assets/scenario_3.png" width="18%" />
   <img src="src/assets/scenario_4.png" width="18%" />
