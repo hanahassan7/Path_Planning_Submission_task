@@ -33,10 +33,6 @@ This point is prepended to the generated midpoints to form the raw skeleton of t
 
 ### Step 7: Smoothing and Resampling
 **Description:** The raw midpoints are jagged polylines. To satisfy kinematic constraints and output step sizes $\le 0.5m$, the skeleton is smoothed and dense-sampled.
-<<<<<<< HEAD
-=======
-
->>>>>>> 577747bd225847f76879c1a67173faa6c8d2cf3a
 
 ---
 
@@ -45,32 +41,32 @@ This point is prepended to the generated midpoints to form the raw skeleton of t
 
 ### Results 1 - 10
 <p align="center">
-  <img src="src/assets/image.png" width="18%" />
-  <img src="src/assets/scenario_2.png" width="18%" />
-  <img src="src/assets/scenario_3.png" width="18%" />
-  <img src="src/assets/scenario_4.png" width="18%" />
-  <img src="src/assets/scenario_5.png" width="18%" />
+  <img src="assets/image.png" width="18%" />
+  <img src="assets/scenario_2.png" width="18%" />
+  <img src="assets/scenario_3.png" width="18%" />
+  <img src="assets/scenario_4.png" width="18%" />
+  <img src="assets/scenario_5.png" width="18%" />
 </p>
 <p align="center">
-  <img src="src/assets/scenario_6.png" width="18%" />
-  <img src="src/assets/scenario_7.png" width="18%" />
-  <img src="src/assets/scenario_8.png" width="18%" />
-  <img src="src/assets/scenario_9.png" width="18%" />
-  <img src="src/assets/scenario_10.png" width="18%" />
+  <img src="assets/scenario_6.png" width="18%" />
+  <img src="assets/scenario_7.png" width="18%" />
+  <img src="assets/scenario_8.png" width="18%" />
+  <img src="assets/scenario_9.png" width="18%" />
+  <img src="assets/scenario_10.png" width="18%" />
 </p>
 
 ### Results 11 - 20
 <p align="center">
-  <img src="src/assets/scenario_11.png" width="18%" />
-  <img src="src/assets/scenario_12.png" width="18%" />
-  <img src="src/assets/scenario_13.png" width="18%" />
-  <img src="src/assets/scenario_14.png" width="18%" />
-  <img src="src/assets/scenario_15.png" width="18%" />
+  <img src="assets/scenario_11.png" width="18%" />
+  <img src="assets/scenario_12.png" width="18%" />
+  <img src="assets/scenario_13.png" width="18%" />
+  <img src="assets/scenario_14.png" width="18%" />
+  <img src="assets/scenario_15.png" width="18%" />
 </p>
 <p align="center">
-  <img src="src/assets/scenario_16.png" width="18%" />
-  <img src="src/assets/scenario_17.png" width="18%" />
-  <img src="src/assets/scenario_18.png" width="18%" />
-  <img src="src/assets/scenario_19.png" width="18%" />
-  <img src="src/assets/scenario_20.png" width="18%" />
+  <img src="assets/scenario_16.png" width="18%" />
+  <img src="assets/scenario_17.png" width="18%" />
+  <img src="assets/scenario_18.png" width="18%" />
+  <img src="assets/scenario_19.png" width="18%" />
+  <img src="assets/scenario_20.png" width="18%" />
 </p>
